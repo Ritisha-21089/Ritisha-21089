@@ -7,15 +7,17 @@ I'm inclined towards exploring Natural Language Processing (NLP), Machine Learni
 ### 🖥️ Tech Stack
 
 <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C Logo" height="30"/> 
-<img src="https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="C++ Logo" height="30"/> 
-<img src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java Logo" height="30"/>
-<img src="https://camo.githubusercontent.com/a1b2dac5667822ee0d98ae6d799da61987fd1658dfeb4d2ca6e3c99b1535ebd8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" alt="Python Logo" height="30"/> 
-<img src="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" alt="MySQL Logo" height="30"/> 
-<img src="https://camo.githubusercontent.com/9a8ccd8ae319ddac9934db226e7834d7e1c61a31076e7d7c04ecb5bf352967aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d2532334632344531452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" alt="Figma Logo" height="30"/> 
-<img src="https://camo.githubusercontent.com/9021fd9908a10ae7ceb39132a53275d95bb81384a8bc58e388a3e03f3bf324f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f722d2532333237364443332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465" alt="R Logo" height="30"/> 
-<img src="https://camo.githubusercontent.com/5e97a4e428eb8bdf169c671b77ebe47f45cf9ca4e704e4bcac4932d3c8511ad6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f43616e76612d2532333030433443432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43616e7661266c6f676f436f6c6f723d7768697465" alt="Canva Logo" height="30"/> 
-<img src="https://camo.githubusercontent.com/e464c1da94fa62c15f6a6dc83e36ad97f7310551a4c4f0aa8d1d6a49a89cbe07/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c617465782d2532333030383038302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c61746578266c6f676f436f6c6f723d7768697465" alt="LaTeX Logo" height="30"/>  
-<img src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git Logo" height="30"/>
+<img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++ Logo" height="30"/> 
+<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java Logo" height="30"/>
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python Logo" height="30"/> 
+<img src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" alt="MySQL Logo" height="30"/> 
+<img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma Logo" height="30"/> 
+<img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML Logo" height="30"/> 
+<img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS Logo" height="30"/>
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript Logo" height="30"/>
+<img src="https://img.icons8.com/?size=100&id=47039&format=png&color=000000" alt="QT Logo" height="30"/>
+<img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" alt="LaTeX Logo" height="30"/>  
+<img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git Logo" height="30"/>
 
 ---
 
