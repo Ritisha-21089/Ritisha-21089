@@ -19,8 +19,8 @@ I'm inclined towards exploring Natural Language Processing (NLP), Machine Learni
   <img src="https://img.icons8.com/?size=100&id=47039&format=png&color=000000" alt="QT Logo" height="30"/>
   <img src="https://img.icons8.com/?size=100&id=WBooq2dInw0x&format=png&color=000000" alt="LaTeX Logo" height="30"/>
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git Logo" height="30"/>
-  <img src="https://img.icons8.com/?size=100&id=47039&format=png&color=000000" alt="VirtualBox Logo" height="30"/>
-  <img src="https://img.icons8.com/?size=100&id=47039&format=png&color=000000" alt="Visual Studio Logo" height="30"/>
+  <img src="https://img.icons8.com/?size=100&id=36121&format=png&color=000000" alt="VirtualBox Logo" height="30"/>
+  <img src="https://img.icons8.com/?size=100&id=48455&format=png&color=000000" alt="Visual Studio Logo" height="30"/>
   <img src="https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000" alt="Google Cloud Logo" height="30"/>
 </p>
 
